@@ -1,2 +1,3 @@
-# Desafios-do-Bootcamp-GFT-Start-2-Java
-Resolução dos Desafios Matemáticos do Bootcamp GFT Start #2 em Java na plataforma da Digital Innovation One.
+# Mathematical-Challenges-of-Bootcamp-GFT-Start-2-Java
+
+All solutions to the Mathematical Challenges of Bootcamp GFT Start #2 in Java on the Digital Innovation One platform.
